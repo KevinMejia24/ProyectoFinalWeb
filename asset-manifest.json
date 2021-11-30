@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ProyectoFinalWeb/static/css/main.8e5ec0f5.chunk.css",
+    "main.js": "/ProyectoFinalWeb/static/js/main.1aecbf5e.chunk.js",
+    "main.js.map": "/ProyectoFinalWeb/static/js/main.1aecbf5e.chunk.js.map",
+    "runtime-main.js": "/ProyectoFinalWeb/static/js/runtime-main.3f83017e.js",
+    "runtime-main.js.map": "/ProyectoFinalWeb/static/js/runtime-main.3f83017e.js.map",
+    "static/css/2.10d5e67e.chunk.css": "/ProyectoFinalWeb/static/css/2.10d5e67e.chunk.css",
+    "static/js/2.1c9c85cb.chunk.js": "/ProyectoFinalWeb/static/js/2.1c9c85cb.chunk.js",
+    "static/js/2.1c9c85cb.chunk.js.map": "/ProyectoFinalWeb/static/js/2.1c9c85cb.chunk.js.map",
+    "static/js/3.3a49d96f.chunk.js": "/ProyectoFinalWeb/static/js/3.3a49d96f.chunk.js",
+    "static/js/3.3a49d96f.chunk.js.map": "/ProyectoFinalWeb/static/js/3.3a49d96f.chunk.js.map",
+    "index.html": "/ProyectoFinalWeb/index.html",
+    "static/css/2.10d5e67e.chunk.css.map": "/ProyectoFinalWeb/static/css/2.10d5e67e.chunk.css.map",
+    "static/css/main.8e5ec0f5.chunk.css.map": "/ProyectoFinalWeb/static/css/main.8e5ec0f5.chunk.css.map",
+    "static/js/2.1c9c85cb.chunk.js.LICENSE.txt": "/ProyectoFinalWeb/static/js/2.1c9c85cb.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/ProyectoFinalWeb/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f83017e.js",
+    "static/css/2.10d5e67e.chunk.css",
+    "static/js/2.1c9c85cb.chunk.js",
+    "static/css/main.8e5ec0f5.chunk.css",
+    "static/js/main.1aecbf5e.chunk.js"
+  ]
+}
